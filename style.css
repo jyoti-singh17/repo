@@ -12,3 +12,14 @@ h1{
     font-size: larger;
     background-color: black;
 }
+button{
+    color: blue;
+    border: 2px solid rgb(18, 155, 37);
+    background-color: red;
+}
+button:hover{
+    background: #04b639;
+    color: black;
+    border-top:2px solid  rgb(173, 14, 14);
+
+}
